@@ -1,0 +1,4 @@
+T Novata:
+D Completa una partida
+C 1
+Z 1

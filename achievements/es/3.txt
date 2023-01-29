@@ -1,0 +1,4 @@
+T Veterana:
+D Completa 20 partidas
+C 7
+Z 20

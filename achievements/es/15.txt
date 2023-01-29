@@ -1,0 +1,4 @@
+T Derrochar:
+D Muere por falta de Dinero 5 veces
+C 4
+Z 5
