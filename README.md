@@ -1,6 +1,6 @@
 # 🐝 To Bee Or Not To Bee  🐝
 
-To Bee Or Not To Bee es un juego desarrollado y diseñado por Bhavuk Sikka, Samuel de Lucas y José Manuel López-Serrano para la asignatura Proyecto de Programación en la Escuela Politécnica Superior de la Universidad Autónoma de Madrid.
+To Bee Or Not To Bee es un juego desarrollado y diseñado por Bhavuk Sikka y Samuel de Lucas para la asignatura Proyecto de Programación en la Escuela Politécnica Superior de la Universidad Autónoma de Madrid.
 
 ### 🐝 Instalar y compilar el juego
 Para descargar y compilar el juego basta con ejecutar:
