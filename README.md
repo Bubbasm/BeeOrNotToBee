@@ -27,3 +27,7 @@ El resto de información necesaria para jugar puede encontrarse dentro del propi
 ### 🐝 Idioma
 
 Si se desea cambiar el idioma del juego esto puede realizarse desde la sección *Ajustes*. También se pueden restaurar los logros desde esta sección.
+
+### Colaboración
+
+Este juego fue un proyecto en colaboración con Samuel (https://github.com/samu-delucas).
