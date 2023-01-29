@@ -30,4 +30,4 @@ Si se desea cambiar el idioma del juego esto puede realizarse desde la sección 
 
 ### Colaboración
 
-Este juego fue un proyecto en colaboración con Samuel (https://github.com/samu-delucas).
+Este juego fue un proyecto en colaboración con mi compañero [Samuel](https://github.com/samu-delucas).
