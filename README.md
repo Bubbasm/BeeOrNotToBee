@@ -6,7 +6,7 @@ To Bee Or Not To Bee es un juego desarrollado y diseñado por Bhavuk Sikka y Sam
 Para descargar y compilar el juego basta con ejecutar:
 ```sh
 $ git clone https://github.com/Bubbasm/BeeOrNotToBee.git
-$ cd the-game
+$ cd BeeOrNotToBee
 $ make compile
 ```
 
